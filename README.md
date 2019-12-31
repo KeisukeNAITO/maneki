@@ -1,9 +1,10 @@
 maneki
 ======
 
- Visualize stocks and dividends.
+Visualize stocks and dividends.
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Are novice income investors confident in investing?
+Isn't it because you can't see the state at this moment?
+Now let's visualize clearly.
