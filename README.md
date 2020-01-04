@@ -1,7 +1,7 @@
 maneki
 ======
 
-Visualize stocks and dividends.
+Visualize stocks and dividends based on Node-RED.
 
 ### About
 
